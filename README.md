@@ -6,7 +6,7 @@ All you need to do is to make sure you have android studio installed with `ADB`d
 
 Clone the repo
 ```
-git clone 
+git clone https://github.com/e55o/react-native-boilerplate.git
 ```
 
 Then perform an 
@@ -25,4 +25,4 @@ react-native run-ios
 
 Make sure you connect your mobile device and set the `USB Debugging Mode` to ON, and your app will load on the phone
 
-Happy Coding!
+Happy Coding! :tada::tada:
