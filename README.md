@@ -14,6 +14,16 @@ Then perform an
 npm install
 ```
 
+Then Go to your React native Project -> Android
+Create a file `local.properties`
+Open the file
+paste the SDK path
+
+in Windows `sdk.dir = C:\\Users\\USERNAME\\AppData\\Local\\Android\\sdk`
+in macOS `sdk.dir = /Users/USERNAME/Library/Android/sdk`
+in linux `sdk.dir = /home/USERNAME/Android/Sdk`
+Replace `USERNAME` with your user name
+
 after that run it for android/ios using
 ```
 react-native run-android
